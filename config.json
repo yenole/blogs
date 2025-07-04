@@ -1,6 +1,10 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title": "Yoruno",
+    "displayTitle": "比丢小淘气",
+    "subTitle": "👋 Hey Guys I'm Yoruno.",
+    "homeUrl": "https://yenole.com",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6938587?s=100",
+    "faviconUrl": "https://yenole.com/favicon.ico",
+    "singlePage": [ "link", "about" ],
+    "email": "xusir82@gmail.com"
 }
