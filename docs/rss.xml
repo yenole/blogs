@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>比丢小淘气</title><link>https://yenole.github.io/blogs</link><description>👋 Hey Guys I'm Yoruno.</description><copyright>比丢小淘气</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/6938587?s=100</url><title>avatar</title><link>https://yenole.github.io/blogs</link></image><lastBuildDate>Tue, 08 Jul 2025 16:59:34 +0000</lastBuildDate><managingEditor>比丢小淘气</managingEditor><ttl>60</ttl><webMaster>比丢小淘气</webMaster><item><title>Nginx配置React项目，路由路径刷新404</title><link>https://yenole.github.io/blogs/post/Nginx-pei-zhi-React-xiang-mu-%EF%BC%8C-lu-you-lu-jing-shua-xin-404.html</link><description>### Nginx原版
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>比丢小淘气</title><link>https://yenole.github.io/blogs</link><description>👋 Hey Guys I'm Yoruno.</description><copyright>比丢小淘气</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/6938587?s=100</url><title>avatar</title><link>https://yenole.github.io/blogs</link></image><lastBuildDate>Tue, 08 Jul 2025 17:01:28 +0000</lastBuildDate><managingEditor>比丢小淘气</managingEditor><ttl>60</ttl><webMaster>比丢小淘气</webMaster><item><title>Nginx配置React项目</title><link>https://yenole.github.io/blogs/post/Nginx-pei-zhi-React-xiang-mu.html</link><description>### Nginx原版
 
 ```
 localtion / {
@@ -14,7 +14,7 @@ location / {
      # 由原来的404，改成指定index.html
      try_files $uri $uri /index.html;  
 }
-```。</description><guid isPermaLink="true">https://yenole.github.io/blogs/post/Nginx-pei-zhi-React-xiang-mu-%EF%BC%8C-lu-you-lu-jing-shua-xin-404.html</guid><pubDate>Tue, 08 Jul 2025 16:59:03 +0000</pubDate></item><item><title>关于</title><link>https://yenole.github.io/blogs/post/guan-yu.html</link><description># 👋 Hey Guys I'm Yoruno.&#13;
+```。</description><guid isPermaLink="true">https://yenole.github.io/blogs/post/Nginx-pei-zhi-React-xiang-mu.html</guid><pubDate>Tue, 08 Jul 2025 16:59:03 +0000</pubDate></item><item><title>关于</title><link>https://yenole.github.io/blogs/post/guan-yu.html</link><description># 👋 Hey Guys I'm Yoruno.&#13;
 &#13;
 - 👾 My Blog : [yenole.com](https://yenole.com)&amp;nbsp;&amp;nbsp;&amp;nbsp;📊 Visitor : &lt;img src='https://profile-counter.glitch.me/yenole/count.svg' width='140'/&gt;&#13;
 &#13;
